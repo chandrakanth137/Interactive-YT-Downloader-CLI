@@ -51,7 +51,7 @@ A command-line tool to download videos and audio from YouTube.
 To run the downloader, execute the `main.py` script:
 
 ```bash
-python main.py
+uv run main.py
 ```
 
 ## Usage
